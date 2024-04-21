@@ -1,0 +1,105 @@
+*{
+    background-color: beige;
+    color: black;
+}
+
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+
+h2{
+    text-align: center;
+    text-decoration: underline;
+}
+
+p{
+    text-align: justify;
+}
+
+
+#Tushar{
+    margin-left: 80px;
+    width: 200px;
+    height: 250px;
+    border-radius: 50%;
+}
+
+#vaish{
+    margin-left: 65px;
+    width: 200px;
+    height: 250px;
+    border-radius: 50%;
+}
+
+#utkarsh{
+    margin-left: 45px;
+    width: 200px;
+    height: 250px;
+    border-radius: 50%;
+}
+
+#tushar{
+    margin-left: 2px;
+    width: 200px;
+    height: 250px;
+    border-radius: 50%;
+}
+
+#aditiya{
+    margin-left: 30px;
+    width: 200px;
+    height: 250px;
+    border-radius: 50%;
+}
+
+
+
+#names{
+    display: flex;
+}
+
+#t{
+    margin-left: 40px;
+}
+
+#a{
+    margin-left: 145px;
+}
+
+#u{
+    margin-left: 173px;
+}
+
+#v{
+    margin-left: 165px;
+}
+
+#T{
+    margin-left: 170px;
+}
+
+#project{
+    text-align: center;
+    text-transform: capitalize;
+    text-decoration: underline;
+}
+
+#buttons{
+    margin-left: 450px;
+}
+
+#logo{
+    width: 200px;
+    height: auto;
+    margin-left: 520px;
+    border-radius: 5%;
+    border: 2px solid black;
+}
+
+#gla{
+    margin-left: 500px;
+    width: 250px;
+    border: 2px solid black;
+    
+}
